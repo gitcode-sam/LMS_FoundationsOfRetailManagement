@@ -4,7 +4,7 @@ Format: Articulate 360 (Exported to PDF)
 
 ### About This Portfolio
 
-This portfolio showcases an e-learning module developed in Articulate 360 *Foundations of Fashion Retail Management*. These modules reflect essential skills in:
+This portfolio showcases an e-learning module developed in Articulate 360 *Foundations of Fashion Retail Management*. This module reflect essential skills in:
 
   1. Instructional design tailored to retail operations
   2. Engaging visual content creation using Canva
